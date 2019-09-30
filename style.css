@@ -1,0 +1,35 @@
+html {
+ background-image:url("Fondo.jpeg");
+}
+ul {
+  column-count: 2;
+}
+h1 {
+    color: white;
+    font-size: 80px;
+}
+h2 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+h3 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    line-height: 1.333333334;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+    text-align: justify;
+}
+li {
+    color: black;
+    font-size: 20px;
+}
+
+.titulo{ background-color:black; }
+.subtitulo{ background-color:purple; }
+.contenido{ background-color:blue; }
